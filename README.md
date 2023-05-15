@@ -22,22 +22,22 @@ vendidos
 respectivo precio por la cantidad puesta y el total de la venta
 
 
-![](01.png)
-![](02.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/01.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/02.png)
  
 ## Historia de Usuario
 
-![](54.png)
-![](55.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/54.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/55.png)
 
 ##  Diagrama de flujo
 
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/1.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/2.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/3.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/4.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/5.png)
+![](https://github.com/GhostBusters43/Ejercicio1/blob/main/Img/6.png)
 
 
 ## Pseudocódigo
